@@ -11,16 +11,21 @@ The primary goal for students is to identify these hard-coded elements and refac
 <table style="width: 100%;">
   <tr>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/8f59926f-b113-4940-9348-0c6b88d97211" alt="Screenshot 1" style="width:100%;">
+      <img src="https://github.com/user-attachments/assets/44984430-072d-4ee4-93cb-ffe6c8f3b690" alt="Icon" style="width:100%;" >
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/c72e7845-11dd-4a76-83e4-6bf85e68fe54" alt="Screenshot 3" style="width:100%;">
+      <img src="https://github.com/user-attachments/assets/3122b771-68dc-4cff-be17-ee8eba3e947b" alt="Homepage" style="width:100%;" >
     </td>
     <td align="center" width="33%">
-      <img src="https://github.com/user-attachments/assets/a4228cc3-ecab-44d4-85ec-d6f5be1c877d" alt="Screenshot 2" style="width:100%;">
+      <img src="https://github.com/user-attachments/assets/df3bee2a-ed4a-41b3-8b7b-ebb350364649" alt="Settings" style="width:100%;" >
     </td>
   </tr>
 </table>
+
+
+
+
+
 
 ## Features
 
